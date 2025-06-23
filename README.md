@@ -18,7 +18,7 @@ Fine-tune LLaMA models to extract structured, JSON-style data from medical repor
 
 * Fine-tune LLaMA models on annotated medical text.
 * Accepts MedTator XML inputs and produces structured, JSON-style outputs.
-* Model weights located at https://huggingface.co/michelleUMD/cmr-llama/blob/main/README.md
+* Model weights located at https://huggingface.co/michelleUMD/cmr-llama/
 
 ---
 
