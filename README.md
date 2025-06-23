@@ -11,8 +11,6 @@ Fine-tune LLaMA models to extract structured, JSON-style data from medical repor
    * [Training](#training)
    * [Inference](#inference)
    * [Post-processing](#post-processing)
-5. [Future Work](#future-work)
-6. [Future Paper Plan](#future-paper-plan)
 
 ---
 
